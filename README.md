@@ -37,10 +37,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <img src="./profile/stats-light.svg" height="180" alt="GitHub stats" />
-  </picture>
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile/langs-dark.svg" />
     <img src="./profile/langs-light.svg" height="180" alt="Top languages" />
   </picture>
