@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - ".github/workflows/profile.yml"   # run right after this file changes
+      - ".github/scripts/**"
   schedule:
     - cron: "0 */12 * * *"                # refresh every 12 hours
   workflow_dispatch:                      # manual run from the Actions tab
@@ -87,6 +88,12 @@ jobs:
           outputs: |
             profile/snake-dark.svg?palette=github-dark&color_snake=#A78BFA&color_dots=#161B22,#2E1F5E,#4C2F99,#7048E8,#A78BFA
             profile/snake-light.svg?palette=github-light&color_snake=#7C3AED&color_dots=#EBEDF0,#DDD6FE,#C4B5FD,#A78BFA,#7C3AED
+
+      - name: Snake details (head, eyes, tongue, scales)
+        continue-on-error: true
+        run: |
+          python3 .github/scripts/fancy_snake.py profile/snake-dark.svg profile/snake-dark.svg dark
+          python3 .github/scripts/fancy_snake.py profile/snake-light.svg profile/snake-light.svg light
 
       # ── Save ───────────────────────────────────────────────
       - name: Commit
