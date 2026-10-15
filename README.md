@@ -84,32 +84,12 @@ const me = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=KhegaiVladimir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KhegaiVladimir&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhegaiVladimir&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=KhegaiVladimir&theme=tokyonight&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=KhegaiVladimir&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhegaiVladimir&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
@@ -124,16 +104,6 @@ const me = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KhegaiVladimir/KhegaiVladimir/output/github-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/KhegaiVladimir/KhegaiVladimir/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-## 💬 Quote of the day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
 </div>
 
