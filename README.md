@@ -1,29 +1,30 @@
-<!-- ═══════════ ШАПКА (анимированная волна) ═══════════ -->
+<!-- ═══════════ HEADER (animated wave) ═══════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Привет,%20я%20Владимир&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20Math%20@%20Rhodes%20College%20•%20AI%20Agents%20•%20Full-Stack&descAlignY=58&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hi,%20I'm%20Vladimir&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20Math%20@%20Rhodes%20College%20•%20AI%20Agents%20•%20Full-Stack&descAlignY=58&descSize=20" width="100%"/>
 </div>
 
-<!-- ═══════════ ПЕЧАТАЮЩИЙСЯ ТЕКСТ ═══════════ -->
+<!-- ═══════════ TYPING TEXT ═══════════ -->
 <div align="center">
   <a href="https://github.com/KhegaiVladimir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Строю+AI-агентов,+которые+делают+работу+;Превращаю+идеи+в+работающие+проекты+;Хакатоны,+full-stack+и+немного+геймдева+;Открыт+к+новым+проектам+и+коллаборациям" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+AI+agents+that+get+work+done;Turning+ideas+into+working+products;Hackathons,+full-stack+and+a+bit+of+game+dev;Open+to+new+projects+and+collaborations" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<!-- ═══════════ СЧЁТЧИК И ССЫЛКИ ═══════════ -->
+<!-- ═══════════ VIEWS & LINKS ═══════════ -->
 <div align="center">
 
-![Просмотры профиля](https://komarev.com/ghpvc/?username=KhegaiVladimir&label=Просмотры&color=8b5cf6&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=KhegaiVladimir&label=Profile%20views&color=8b5cf6&style=for-the-badge)
 [![Website](https://img.shields.io/badge/vladimirkhegai.com-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vladimirkhegai.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KhegaiVladimir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vladimir-khegai-53166237a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khegai.dev@gmail.com)
 
 </div>
 
 ---
 
-## 👾 Обо мне
+## 👾 About me
 
 <table>
 <tr>
@@ -34,10 +35,13 @@ const me = {
   name: "Vladimir Khegai",
   role: "CS & Math Student @ Rhodes College",
   location: "Memphis, TN 🌍",
-  currentlyBuilding: ["cairn — AI-агент для Splunk через MCP", "phantom-dev — vision-first AI-оператор"],
+  currentlyBuilding: [
+    "cairn — AI agent that maps & cleans up Splunk via MCP",
+    "phantom-dev — vision-first autonomous computer operator",
+  ],
   interests: ["AI agents", "Full-stack", "Game dev"],
-  funFact: "Превращаю кофе в код ☕",
-  lookingFor: "Интересные проекты и классных людей",
+  funFact: "I turn coffee into code ☕",
+  lookingFor: "Interesting projects and great people",
 };
 ```
 
@@ -52,23 +56,23 @@ const me = {
 
 ---
 
-## 🛠️ Мой стек
+## 🛠️ Tech stack
 
 <div align="center">
 
-**Языки**
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=py,js,ts,swift,cs,html,css&theme=dark" /><br/>
 
-**Frontend и Backend**
+**Frontend & Backend**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,django,fastapi&theme=dark" /><br/>
 
-**Данные, DevOps и инструменты**
+**Data, DevOps & Tools**
 
 <img src="https://skillicons.dev/icons?i=postgres,supabase,docker,vercel,git,github,githubactions&theme=dark" /><br/>
 
-**Геймдев**
+**Game dev**
 
 <img src="https://skillicons.dev/icons?i=unity,godot&theme=dark" /><br/>
 
@@ -76,7 +80,7 @@ const me = {
 
 ---
 
-## 📊 GitHub-статистика
+## 📊 GitHub stats
 
 <div align="center">
 
@@ -91,7 +95,7 @@ const me = {
 
 ---
 
-## 🏆 Трофеи
+## 🏆 Trophies
 
 <div align="center">
 
@@ -101,17 +105,17 @@ const me = {
 
 ---
 
-## 📈 График активности
+## 📈 Contribution graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhegaiVladimir&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Мой%20график%20коммитов" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KhegaiVladimir&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
 ---
 
-## 🐍 Змейка поедает мои коммиты
+## 🐍 Snake eating my contributions
 
 <div align="center">
 
@@ -125,7 +129,7 @@ const me = {
 
 ---
 
-## 💬 Мысль дня
+## 💬 Quote of the day
 
 <div align="center">
 
@@ -135,19 +139,19 @@ const me = {
 
 ---
 
-## 🎵 Пишу код под
+## 🎵 Coding to
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Lo--Fi%20Beats-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
 <img src="https://img.shields.io/badge/Synthwave-FF00FF?style=for-the-badge&logo=soundcloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Кофе-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+<img src="https://img.shields.io/badge/Coffee-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 
 </div>
 
 ---
 
-<!-- ═══════════ ПОДВАЛ ═══════════ -->
+<!-- ═══════════ FOOTER ═══════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer" width="100%"/>
 </div>
